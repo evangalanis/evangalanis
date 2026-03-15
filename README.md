@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Evangelos Galanis 👋
 
-<!--
-**evangalanis/evangalanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support & System Administration professional currently expanding into DevOps.
 
-Here are some ideas to get you started:
+## Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linux  
+Docker  
+Kubernetes  
+Networking  
+System Administration  
+Git & GitHub  
+
+## Currently Learning
+
+Docker containerization  
+Kubernetes orchestration  
+Infrastructure automation  
+
+## Projects
+
+DevOps Labs  
+Docker Experiments  
+Linux Automation Scripts
